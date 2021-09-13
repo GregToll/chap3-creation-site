@@ -1,0 +1,10 @@
+p{
+	background: none;
+	width: 50%;
+	margin: auto;
+	padding: 5px;
+	min-width: 400px;
+	border: 1px solid black;
+	text-align: justify ;
+	overflow: auto;
+}
